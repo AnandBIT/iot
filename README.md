@@ -6,6 +6,9 @@
 -  CPS - Cyber Physical Systems
 -  WOT - Web Of Things
 -  WSN - Wireless Sensor Network
+-  MANETs - − Mobile Wireless Ad hoc Networks
+-  WMNs - Wireless Mesh Networks
+-  VANETs - Vehicular Ad Hoc Networks
 -  IoP - Internet of People
 -  IoE - Internet of Everything
 -  IoV - Internet of Vehicles
@@ -31,13 +34,25 @@
 -  HTTP - Hyper Text Transfer Protocol
 -  XML - Extensible Markup Language
 -  JSON - JavaScript Object Notation
--  MQTT - Message Queuing Telemetry Transport
+-  MQTT - Message Queue Telemetry Transport
 -  CoAP - Constrained Application Protocol
 -  XMPP - Extensible Messaging and Presence Protocol
 -  AMQP - Advanced Message Queuing Protocol
 -  CBOR — Concise Binary Object Representation
 -  DTLS - Datagram Transport Layer Security
 -  LTE - Long-Term Evolution
+-  PaaS - Platform as a Service
+-  aPaas - Application Paas
+-  iPaas - Integration Paas
+-  Saas - Software as a Service
+-  PIR - Passive Infrared Sensor
+-  OWASP - Open Web Application Security Project
+-  UPnP - Universal Plug and Play
+-  URI - Uniform Resource Identifier
+-  URL - Uniform Resource Locator
+-  SNMP - Simple Network Management Protocol
+-  MIB - Management Information Base
+-  IETF - Internet Engineering Task Force
 
 ## Some random short notes
 
